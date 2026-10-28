@@ -140,4 +140,5 @@ The following features were tested during development:
 ## Author
 
 **Muhammad Nabi**
+
 Developed as a Full Stack Web Development learning project.
